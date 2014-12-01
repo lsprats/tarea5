@@ -1,0 +1,68 @@
+@media screen and (max-width: 830px) {
+	header h1{
+		float: none;
+		text-align: center;
+	}
+
+	header nav{
+		margin: 0 auto;
+		float: none;
+	}
+
+	header nav ul{
+		display: block;
+		text-align: center;
+	}
+	.der img {
+		float: none;
+		padding: 0;
+		width: 100%;
+		text-align: center;
+		margin: 10px 0;
+		padding: 10px 0;
+	}
+	.der p {
+		float: none;
+		padding: 0;
+		width: 100%;
+		text-align: center;
+		margin: 10px 0;
+		padding: 10px 0;
+	}
+	.izq img {
+		float: none;
+		padding: 0;
+		width: 100%;
+		text-align: center;
+		margin: 10px 0;
+		padding: 10px 0;
+	}
+	.izq p {
+		float: none;
+		padding: 0;
+		width: 100%;
+		text-align: center;
+		margin: 10px 0;
+		padding: 10px 0;
+	}
+}
+
+@media screen and (max-width: 500px) {
+	header h1{
+		float: none;
+		text-align: center;
+	}
+
+	header nav{
+		margin: 0 auto;
+		float: none;
+	}
+
+	header nav ul{
+		display: block;
+		text-align: center;
+	}
+	header nav li a {
+		padding: 5px;
+	}
+}
